@@ -37,7 +37,8 @@ version = '0.36.1'
 mode = 'disabled'
 
 [auth.redirections]
-clientUrl = 'http://localhost:3000'
+clientUrl = 'https://sunfall.netlify.app/'
+allowedUrls = ['https://sunfall.netlify.app/change-password']
 
 [auth.signUp]
 enabled = true
