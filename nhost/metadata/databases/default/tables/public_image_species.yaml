@@ -1,0 +1,3 @@
+table:
+  name: image_species
+  schema: public

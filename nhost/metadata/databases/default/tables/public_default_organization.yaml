@@ -1,0 +1,3 @@
+table:
+  name: default_organization
+  schema: public

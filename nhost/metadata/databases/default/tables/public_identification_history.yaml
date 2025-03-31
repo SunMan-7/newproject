@@ -1,0 +1,3 @@
+table:
+  name: identification_history
+  schema: public

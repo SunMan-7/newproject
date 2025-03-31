@@ -1,0 +1,3 @@
+table:
+  name: cameras
+  schema: public
