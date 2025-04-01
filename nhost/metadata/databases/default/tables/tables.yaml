@@ -20,6 +20,8 @@
 - "!include public_logs.yaml"
 - "!include public_organizations.yaml"
 - "!include public_projects.yaml"
+- "!include public_rosettes.yaml"
+- "!include public_sampling_days_view.yaml"
 - "!include storage_buckets.yaml"
 - "!include storage_files.yaml"
 - "!include storage_virus.yaml"
